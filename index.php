@@ -9,7 +9,7 @@
     <div class="welcome-message">
         <div class="wrap-info">
             <div class="information">
-                <h1  class="animated fadeInDown">Best hotels in Our Region.</h1>
+                <h1  class="animated fadeInDown">Best hotels in Our Area.</h1>
                 <p class="animated fadeInUp">Most luxurious hotels of world with the royal treatments and excellent customer service.</p>                
             </div>
             <a href="#information" class="arrow-nav scroll wowload fadeInDownBig"><i class="fa fa-angle-down"></i></a>

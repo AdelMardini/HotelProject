@@ -16,7 +16,7 @@ if($con)
 			
 		}
 
-		echo("This User does not exist, Please register to site");
+		echo("email or password is wrong, please type a correct email and paswword, if you don't have a user please register");
 	
 		   
 		   
